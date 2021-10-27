@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="price_test">PRICE</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_9">9</string>
+    <string name="button_8">8</string>
+    <string name="button_0">0</string>
+    <string name="button_clear">Clear</string>
+    <string name="_20_0">$20: 0</string>
+    <string name="_10_0">$10: 0</string>
+    <string name="_5_0">$5: 0</string>
+    <string name="_1_0">$1: 0</string>
+    <string name="_25c_0">25c: 0</string>
+    <string name="_10c_0">10c: 0</string>
+    <string name="_5c_0">5c: 0</string>
+    <string name="_1c_0">1c: 0</string>
+    <string name="_0_0">0</string>
+</resources>
